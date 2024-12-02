@@ -9,6 +9,13 @@
 https://wkdaily.cpolar.cn/archives/gc
 ## 教学视频
 https://www.bilibili.com/video/BV1EZ421M7mL
+
+1. 点击 Actions（行动） 按钮
+2. 点击 x86-64 Pull and Save Docker Image （x86-64 拉取并保存 Docker 镜像） 按钮
+3. 点击 Run workflow 按钮
+4. 请填写docker镜像名称 等... 并下载
+5. Linux上使用 docker loab -i "镜像名称" 即可
+
 ## 解压工具
 > Windows 上推荐使用7zip<br>
 > macOS 推荐使用MacZip<br>
